@@ -25,3 +25,10 @@ If you do not feel like installing anything find an online IPython console [HERE
 ### Links
 Some of the image links in the notebook will be broken, sub with your own.
 
+### Setup
+Download the .ipynb file and run the folling command in the directory
+
+<pre>
+   ipython notebook
+</pre>
+
