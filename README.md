@@ -7,7 +7,7 @@
 * Some files for the Python meetup tommorow at 
 
 ### Some usefull links
-* Download a complete production ready python stack from the [downloads](/downloads) page. This is very usefull. No broblems installing Numpy, Matplotlib, Pandas etc.
+* Download a complete production ready python stack from the [downloads](http://insightstack.co.za/downloads) page. This is very usefull. No broblems installing Numpy, Matplotlib, Pandas etc.
 * Point your browsers to the [following url](http://95.85.29.190:8999/notebooks/python_meetup.ipynb) during the talk and play with. [I will start it up sometime tonight, and give you the password tommorow]
 * Have a look at this [Github repo](http://tooblippe.github.io/zapycon2013_ipython_science/). Most of it is in there.
 * Here is a static view of the [Notebook](http://htmlpreview.github.io/?https://github.com/Tooblippe/zapycon2013_ipython_science/blob/master/src/output/pycon13_ipython.html)
@@ -21,4 +21,7 @@
 ### IPython console to play with
 If you do not feel like installing anything find an online IPython console [HERE](https://www.pythonanywhere.com/try-ipython/)
 
+
+### Links
+Some of the image links in the notebook will be broken, sub with your own.
 
